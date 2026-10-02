@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://img.shields.io/badge/Hypixel-Skyblock-gold?style=for-the-badge&logo=minecraft" alt="Hypixel Skyblock"/>
   <img src="https://img.shields.io/badge/Version-v4.0-blue?style=for-the-badge" alt="Version"/>
@@ -5,7 +6,7 @@
   
   <br><br>
   
-  <img width="150" height="150" alt="taunahi" src="https://github.com/user-attachments/assets/e4e4ecf0-699c-49a5-9a0b-1a2ae3ea2057" style="border-radius: 20px;" />
+  <img width="150" height="150" alt="taunahi" src="https://github.com/user-attachments/assets/df16eae0-bd5b-4b1a-80ae-1d430011c92e" style="border-radius: 20px;" />
 
   <h1>Taunahi Client</h1>
   <p><b>The Ultimate Automated Utility Mod for Hypixel Skyblock</b></p>
@@ -45,13 +46,14 @@ Taunahi isn't just about automation; it's about staying under the radar. Our cor
 
 See Taunahi's flawless pathfinding and automation in action.
 
+
 <details open>
 <summary><b>🌾 Farming & Garden Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="megafarm" src="https://github.com/user-attachments/assets/78abe77e-c014-43da-97ce-39116847cf4f" />
-  <img width="32%" alt="pest" src="https://github.com/user-attachments/assets/24a47d52-4909-452f-9a88-cc0966b0478a" />
-  <img width="32%" alt="flower" src="https://github.com/user-attachments/assets/fbb385ab-7627-4353-aa89-ff245e8493e0" />
+  <img width="32%" alt="megafarm" src="https://github.com/user-attachments/assets/e104cb26-7c17-4bd6-838f-d2f9ba6d9d4a" />
+  <img width="32%" alt="pest" src="https://github.com/user-attachments/assets/87c203aa-ad72-404c-aa59-18fd9e9fa591" />
+  <img width="32%" alt="flower" src="https://github.com/user-attachments/assets/223f01f5-0cae-446b-a456-4c5f61725739" />
 </div>
 </details>
 
@@ -59,9 +61,9 @@ See Taunahi's flawless pathfinding and automation in action.
 <summary><b>⚔️ Combat & Slayers Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="sven" src="https://github.com/user-attachments/assets/deed4708-0045-4e84-a875-e807a99a79f3" />
-  <img width="32%" alt="tara" src="https://github.com/user-attachments/assets/00986cac-f81d-49ce-93e0-be213f517a8b" />
-  <img width="32%" alt="hunting" src="https://github.com/user-attachments/assets/7711862d-557b-4c3b-83ac-da5990216233" />
+  <img width="32%" alt="sven" src="https://github.com/user-attachments/assets/f4a94e27-a880-4725-bdb1-d3e9900b851f" />
+  <img width="32%" alt="tara" src="https://github.com/user-attachments/assets/ae89aa85-b3a1-45a5-b876-c135e27d82b6" />
+  <img width="32%" alt="hunting" src="https://github.com/user-attachments/assets/66e641e1-9540-47d9-b995-2385fedca365" />
 </div>
 </details>
 
@@ -69,9 +71,9 @@ See Taunahi's flawless pathfinding and automation in action.
 <summary><b>🌲 Foraging Showcase</b></summary>
 <br>
 <div align="center">
-  <img width="32%" alt="mangrove" src="https://github.com/user-attachments/assets/71b4a213-e810-4516-aaee-c66fcbfbfb23" />
-  <img width="32%" alt="park" src="https://github.com/user-attachments/assets/3255aacb-773d-4471-8b33-62a4ff99cd36" />
-  <img width="32%" alt="fig" src="https://github.com/user-attachments/assets/b2d61f07-df0b-4de8-9088-ced29e482d91" />
+  <img width="32%" alt="mangrove" src="https://github.com/user-attachments/assets/a65fe49e-338e-4b81-bde3-e840e6baf956" />
+  <img width="32%" alt="lushlilac" src="https://github.com/user-attachments/assets/302dc28f-f050-4b3c-af15-a21b50348bfb" />
+  <img width="32%" alt="fig" src="https://github.com/user-attachments/assets/d1cff93e-f354-461c-9ab4-01d5bf67c390" />
 </div>
 </details>
 
@@ -102,8 +104,8 @@ Maximize combat XP and hourly rates with intelligent auto-walkers and combat scr
 
 ## ⚙️ Installation & Setup
 
-1. Go to the [**Releases**](YOUR_REPOSITORY_LINK_HERE/releases) page and download the latest `.zip` file.
-2. **Extract** the contents of the `.zip` file to your computer.
-3. Run the **installer (`.exe`)** included in the extracted folder.
-4. Select your `.minecraft` folder when prompted by the installer.
+1. Install [Fabric Loader](https://fabricmc.net/use/installer/) for Minecraft **26.2**.
+2. Download [Fabric API](https://modrinth.com/mod/fabric-api) (26.2) and place it in `.minecraft/mods`.
+3. Download the mod `.jar` from the [**Releases**](YOUR_REPOSITORY_LINK_HERE/releases) page and place it in `.minecraft/mods`.
+4. Launch Minecraft with the **Fabric 26.2** profile.
 5. **Enjoy** your fully automated Skyblock experience!
