@@ -85,10 +85,10 @@ Taunahi features hyper-optimized scripts for nearly every skill and task in the 
 
 ### 🌾 Farming (Garden)
 Our Garden scripts adapt to both basic and advanced farm designs with seamless pathfinding.
-- [x] **Warts & Crops:** Realistic automation with zero downtime.
-- [x] **Echo Script:** Mimics farming paths for *any* custom farm design outside of standard presets.
-- [x] **Pests & Visitors:** Automatically clears pests (sprays/repellents) and handles visitors between rewarps for maximum profit.
-- [x] **Farm Builders:** Automates the physical building of required farm layouts.
+-  **Warts & Crops:** Realistic automation with zero downtime.
+-  **Echo Script:** Mimics farming paths for *any* custom farm design outside of standard presets.
+-  **Pests & Visitors:** Automatically clears pests (sprays/repellents) and handles visitors between rewarps for maximum profit.
+-  **Farm Builders:** Automates the physical building of required farm layouts.
 
 ### ⚔️ Combat & Slayers
 Maximize combat XP and hourly rates with intelligent auto-walkers and combat scripts.
